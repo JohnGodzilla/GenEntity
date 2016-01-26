@@ -61,3 +61,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.idea/encodings.xml
+*.xml
+.idea/.name
+src/com/share/barter/tool/Oldhousesale.java
+src/com/share/barter/tool/Community.java
